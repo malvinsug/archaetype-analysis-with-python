@@ -53,6 +53,7 @@ def init_matrix(row_size, column_size,column = True):
 samples = 20
 features  = 2
 center = 3
+#you can choose any data
 #data = np.random.randint(0,250, (samples,2))
 #data = np.array([[80, 90,80,70, 100,80,60, 110,100,90,80,50, 120,60,40, 130,100,80,50,30],[10, 20,20,20, 30,30,30, 40,40,40,40,40, 50,50,50, 60,60,60,60,60]]).transpose()
 #data = np.array([[10, 20,20,20, 30,30,30, 40,40,40,40,40, 50,50,50, 60,60,60,60,60],[80, 90,80,70, 100,80,60, 110,100,90,80,50, 120,60,40, 130,100,80,50,30]]).transpose()
